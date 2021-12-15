@@ -1,6 +1,6 @@
 # Trybe Excercises
 
-This repository contains all projects developed by Débora Silveira while studying at Trybe rocket
+This repository contains all excercises developed by Gabriel Mendes at Trybe by now rocket
 
 The web development training program from Trybe has a workload of 1500 hours that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
