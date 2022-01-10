@@ -61,10 +61,6 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 - [X] 8.5 - Projeto - Zoo functions
 ### Bloco 9: JavaScript Assíncrono e Promises
 - [X] 9.1 - JavaScript Assíncrono e Callbacks
-- [X] 9.2 - JavaScript Promises
-- [X] 9.3 - Projeto - Carrinho de Compras
-### Bloco 10: Testes automatizados com Jest
-- [X] 10.1 - Primeiros passos no Jest
-- [X] 10.2 - Jest - Testes Assíncronos
-- [X] 10.3 - Jest - Simulando comportamentos
-- [X] 10.4 - Projeto - Jest Assíncrono e Mocking
+- [X] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [X] 9.3 - Jest - Testes Assíncronos
+- [X] 9.4 - Projeto - Carrinho de Compras
